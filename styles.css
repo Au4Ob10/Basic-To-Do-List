@@ -1,0 +1,33 @@
+
+* {
+  text-align: center; }
+.listInput {
+  background-color: #E7F6F2;
+  width: 22%;
+  height: 1.9rem;
+  font-size: 1rem;
+  border: 2px solid #aaa;
+  border-radius: 4px;
+  margin: 8px;
+  padding-right: 30px;
+}
+
+.orderedList {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+
+
+
+.taskBox {
+  position: absolute;
+  align-items: center;
+  align-content: center;
+  margin-left: 31.313rem;
+  width: 32.5rem;
+  height: 30rem;
+  border: solid 0.05rem;
+  overflow: scroll;
+
+}
